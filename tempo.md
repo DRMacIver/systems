@@ -13,8 +13,6 @@ It's *very much* still a work in progress.
 I ran a couple sessions of [variant lean coffee at PyCon UK](https://notebook.drmaciver.com/posts/2018-09-20-09:17.html),
 and Tempo is the next generation system based on that.
 
-The name is stolen from [a web toy](https://drmaciver.github.io/tempo/) I created after that session, but I now think the web toy is a bad idea and a human time keeper is better.
-
 The system as I describe in this document has yet to be play tested and will likely be modified in the course of play testing.
 
 ## Setup and Equipment
