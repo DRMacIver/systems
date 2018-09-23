@@ -1,25 +1,25 @@
-# Cadence
+# Tempo
 
-Cadence is a way of structuring a conversation that allows you to cover a wide range of interesting subjects in a short amount of time,
+Tempo (working title) is a way of structuring a conversation that allows you to cover a wide range of interesting subjects in a short amount of time,
 in a way that tries to ensure everyone gets a chance to share their thoughts.
-Cadence structures the conversation into a series of small time boxes, with a mixed mechanism designed to keep the conversation on topics that are interesting to the group.
+Tempo structures the conversation into a series of small time boxes, with a mixed mechanism designed to keep the conversation on topics that are interesting to the group.
 
-Cadence is explicitly designed so that a group that can vary throughout the course of the conversation as people drop in and out, and so the group can be split if it gets too large.
+Tempo is explicitly designed so that a group that can vary throughout the course of the conversation as people drop in and out, and so the group can be split if it gets too large.
 
 ## Background
 
-Cadence started out as a fork of lean coffee, adapted to deal with my frustrations with the basic design of the system.
+Tempo started out as a fork of lean coffee, adapted to deal with my frustrations with the basic design of the system.
 It's *very much* still a work in progress.
 I ran a couple sessions of [variant lean coffee at PyCon UK](https://notebook.drmaciver.com/posts/2018-09-20-09:17.html),
-and Cadence is the next generation system based on that.
+and Tempo is the next generation system based on that.
 
-The name is stolen from [a web toy](https://drmaciver.github.io/cadence/) I created after that session, but I now think the web toy is a bad idea and a human time keeper is better.
+The name is stolen from [a web toy](https://drmaciver.github.io/tempo/) I created after that session, but I now think the web toy is a bad idea and a human time keeper is better.
 
 The system as I describe in this document has yet to be play tested and will likely be modified in the course of play testing.
 
 ## Setup and Equipment
 
-Cadence requires two people: A time keeper, and a scribe. The time keeper is responsible for keeping the flow of conversation moving and enforcing the rules,
+Tempo requires two people: A time keeper, and a scribe. The time keeper is responsible for keeping the flow of conversation moving and enforcing the rules,
 the scribe is responsible for taking notes. It is very strongly recommended that these not be the same person.
 Both should feel free to take part in the conversation themselves, though if the time keeper talks a lot it may be worth having a second time keeper to check on them.
 
@@ -56,14 +56,14 @@ If they take longer than a second or two to do this, the time keeper should verb
 
 ## Joining Midway Through
 
-It is easy to join a cadence session midway through.
+It is easy to join a tempo session midway through.
 Pull up a chair, get a pad of paper, write down at least one conversation topic you want to discuss, and add a card with your name on it to the deck (The time keeper should shuffle the deck before the next round starts if new cards have been added).
 
 People are welcome to listen in if they are not in the deck, but they should not participate in the conversation.
 
 ## Splitting the group
 
-The optimal size for a cadence session is probably about 5-8 people.
+The optimal size for a tempo session is probably about 5-8 people.
 Once you've hit ten or more people, it's time to split the group (feel free to experiment with this number).
 
 To do this, add the discard pile back into the deck, shuffle the deck, and deal out two new smaller decks of roughly equal size.
