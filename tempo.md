@@ -71,3 +71,18 @@ Those are your two new groups. Find appropriate table space to separate, and res
 
 Unlike lean coffee, there is no predefined set of cards that people work through, so there is no well defined end to the session. Equally, because people can leave at any point, there's no real difficulty in it continuing indefinitely except that the time keeper and scribe will be exhausted.
 As a result there is no real set ending rule, but the session can be ended after any round, and it's generally useful for scheduling purposes to set a rough end time up front.
+
+## Additional Things to try
+
+Here are some things that I have thought of but would like to experiment with in play testing before I incorporate them:
+
+* I did a [conversation cafe](http://www.liberatingstructures.com/17-conversation-cafe/) recently and thought it was an interesting format. The main thing that I think is worth borrowing from this is the use of a talking object - the use of a physical object that you have to be holding to speak. This worked really well, and one of the things I want to try in play testing is how to incorporate something like this into the system. I also want a better name than "talking object". I keep wanting to call it a conch, but don't feel like [the connotations of "eventually the social order will break down and we'll kill each other"](https://en.wikipedia.org/wiki/Lord_of_the_Flies) are great.
+* The system currently has no introductory step where people say who they are, and it also doesn't do a great job of dealing with people who want to participate but don't have a particular subject they want to talk about. I'm currently thinking about how to fix these simultaneously by e.g. giving people an introductory 30 seconds to talk when their name first comes up. I'm also thinking it might be nice to have people then have an opportunity to ask them questions. 
+
+## Possible Two Player Variants
+
+There are some two person variants you can do of this, either as a training exercise or as worthwhile things in their own right.
+I don't know how well these would work, but I think they'd be interesting to try.
+
+The simplest version is to just have a conversation where you each hold the other to the five second rule. This gets you used to the cadence of the conversation required (five seconds is not a lot of time!) and helps practice the interrupt protocol.
+You could also incorporate the voting aspect fairly easily, but simplify the step of what to talk about next by say doing a minute of silent writing, followed by a negotiation and unanimous agreement on what the next time boxed discussion is. Similarly, the decision to continue for another five minutes requires unanimity.
