@@ -1,6 +1,6 @@
-# Tempo
+# TickTalk
 
-Tempo (working title) is a way of structuring a conversation that allows you to cover a wide range of interesting subjects in a short amount of time,
+TickTalk (formerly named Tempo) is a way of structuring a conversation that allows you to cover a wide range of interesting subjects in a short amount of time,
 in a way that tries to ensure everyone gets a chance to share their thoughts.
 Tempo structures the conversation into a series of small time boxes, with a mixed mechanism designed to keep the conversation on topics that are interesting to the group.
 
