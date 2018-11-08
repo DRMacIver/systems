@@ -2,87 +2,94 @@
 
 TickTalk (formerly named Tempo) is a way of structuring a conversation that allows you to cover a wide range of interesting subjects in a short amount of time,
 in a way that tries to ensure everyone gets a chance to share their thoughts.
-Tempo structures the conversation into a series of small time boxes, with a mixed mechanism designed to keep the conversation on topics that are interesting to the group.
+TickTalk structures the conversation into a series of rounds, with a mixed mechanism designed to keep the conversation on topics that are interesting to the group.
+Each round is 5-10 minutes, with a singlequestion defining the topic that round.
 
-Tempo is explicitly designed so that a group that can vary throughout the course of the conversation as people drop in and out, and so the group can be split if it gets too large.
-
-## Background
-
-Tempo started out as a fork of lean coffee, adapted to deal with my frustrations with the basic design of the system.
+TickTalk started out as a fork of lean coffee, adapted to deal with my frustrations with the basic design of the system.
 It's *very much* still a work in progress.
-I ran a couple sessions of [variant lean coffee at PyCon UK](https://notebook.drmaciver.com/posts/2018-09-20-09:17.html),
-and Tempo is the next generation system based on that.
+I ran a couple sessions of it at PyCon UK, where it was referred to as [variant lean coffee](https://notebook.drmaciver.com/posts/2018-09-20-09:17.html),
+and TickTalk is the evolution of that system.
 
-The system as I describe in this document has yet to be play tested and will likely be modified in the course of play testing.
+## Setup
 
-## Setup and Equipment
+You will need:
 
-Tempo requires two people: A time keeper, and a scribe. The time keeper is responsible for keeping the flow of conversation moving and enforcing the rules,
-the scribe is responsible for taking notes. It is very strongly recommended that these not be the same person.
-Both should feel free to take part in the conversation themselves, though if the time keeper talks a lot it may be worth having a second time keeper to check on them.
+* A large stack of index cards
+* Pens for everyone
+* A five minute timer (you can use a phone, but we're probably going to use a sand timer for the next one)
+* A thirty second timer (once again, you can use a phone or a sand timer)
+* Some easily holdable object to use to designate who is allowed to speak. e.g. I've used a deck of cards or a rubiks cube.
 
-The time keeper needs a stop watch of some sort (phone app is fine, though personally I use an old school digital watch).
-They also need a deck of blank cards (index cards are fine, but something playing card sized is better because they're easier to shuffle)
+Decide on responsibilities:
+You need someone to facilitate, and ideally someone to take notes. These should not be the same person (too much cognitive load).
 
-The scribe should probably be taking notes on a laptop, but it's up to them.
-
-Every person should have pen and paper in front of them to take notes on and write down the topics they want to discuss.
-
-Each person should write down their name on a card and hand it to the time keeper, who shuffles these cards.
-They then each take up to five minutes to write down topics they want to discuss.
-Play begins when either everyone agrees they are done or those five minutes have elapsed.
-
-Optional: A collection of black and white stones to use for voting. You can use show-of-hands if you don't have these.
+The layout is that you need somewhere in the center for the talking object and the current topic to go.
+The facilitator should also have enough space in front of them to lay out a bunch of face up cards and have a stack of face down cards,
+and people need enough space to be able to write on cards.
 
 ## Running a round
 
-1. If the deck of names is empty, the time keeper shuffles the discard pile and makes it the new deck.
-2. The time keeper draws a random person's name from the top of the deck and and puts it in the discard pile.
-3. That person now picks the topic they've previously written down that they most want to discuss, and has 30 seconds to pitch it to the group - read out the prompt and elaborate on it.
-4. At this point, anyone may choose to veto discussion on the topic. Reasons to veto can be essentially anything, but should not be used lightly - ideally a veto would only be performed if the conversation topic would be actively unpleasant for you in some way - e.g. triggery. People are not required to explain their vetoes, but people who use their veto a lot may be asked to elaborate and/or politely asked to leave the group.
-5. The group now votes with a show of hands (or other mechanism). People should vote yes if they *actively want* to discuss the topic *and* don't feel that it is too similar to anything that has already been discussed. If a *strict* majority (that is, more than 50% of the group) wants to discuss the topic, they now have five minutes to do so.
-6. The five minute discussion is mostly unstructured, but if anyone is talking for more than 5-10 seconds (the time keeper should use judgement here - people who are talking a lot should be held to 5 seconds, people who haven't talked recently have the full 10), they should be interrupted and other people should be allowed to speak. Once someone is interrupted, they now shouldn't talk until someone else has had a chance to (and ideally several someone elses).
-7. Once the five minutes have elapsed, the group votes again as to whether they want to continue talking about this subject for another five minutes. If yes, they continue as before. If no, the round ends. There is no option to extend the round a second time.
-8. Everyone has some time to silently write down any notes they want or new ideas for conversation topics. The next round begins when everyone is done.
+A round starts with a motivating question, proposed by one of the participants.
+The question for the first round is always "What sorts of things would we like to talk about today?", proposed by the facilitator.
 
-## The Interrupt Protocol
+Once the question has been proposed, everyone may ask *clarifying questions* of the person presenting it (implicitly the facilitator for the first round).
+These should be short questions (not comments!) that resolve some ambiguity in the proposed question.
+The proposer may briefly answer the question to clarify their intent.
 
-The time keeper's main job is to interrupt people when they hit a time limit.
-When someone needs to stop talking, the time keeper (or anyone else who is tracking time if the time keeper is the one speaking or has otherwise dropped the ball) should start waving at them.
-They now should finish their sentence and stop.
-If they take longer than a second or two to do this, the time keeper should verbally interrupt them.
+Once the question is clear to everyone, a vote is taken. If a majority of participants wish to discuss the topic,
+the timer starts and they now have five minutes to discuss it.
+Once the five minutes are up, another vote is taken as to whether to extend the round for a further five minutes.
+No third vote to extend the round is possible,
+but once the time is finished, everyone who wishes to may have the opportunity to make a closing remark.
+
+During the round (including in the clarifying questions and closing remarks), only the person who is holding the talking object may speak.
+Once they are done, they should put the talking object back in the middle, and anyone who wants to speak may pick it up.
+
+Once the round is over, if the question was discussed it is put face up in front of the facilitator (this will be used to ensure that there are no more questions proposed by the same person until everyone has had a go), otherwise it is put face down in the done pile.
+
+### Talking Object Etiquette
+
+* It is important not to snatch the talking object. Pause, see if other people want it. If more than one person is reaching for it, the one who has spoken least recently takes priority.
+* People should not hold on to the talking object for an excessive amount of time. We're still working out how to track this (possibly the 30 second timer? It may be too much overhead), but in the meantime people should use their judgement. When someone needs to stop talking, people (especially the facilitator) should start waving at them. They now should finish their sentence and stop.
+* If they take longer than a second or two to do this, the facilitator should verbally interrupt them (this is the only time it is OK to talk during the round without a talking object).
+
+We've tentatively found so far that people are quite good at self-policing on talking object use, but it may be that we had a well selected group.
+
+### Selecting a Question
+
+Once the first round is over, give everyone five minutes to write down their name and a question on as many index cards as they like.
+These are all shuffled together and form the question deck. Anyone may add to the question deck at any time, and their card gets shuffled in to the deck.
+This initial question setting is just to get the deck stuffed.
+
+As well as the questions deck, maintain a stack of "later" cards (initially empty).
+
+Beginning the second round onwards a question is selected as follows:
+
+1. If the questions deck is empty, put all of the currently face up cards face down in the done pile, and shuffle the "later" deck to become the question deck.
+2. The top card is drawn from the questions deck.
+3. If the proposer's name is currently face up, the card is added to the "later" pile.
+4. Otherwise, the proposer has an opportunity to withdraw it, in which case the card goes immediately to done.
+5. The question is now voted on as described above.
 
 ## Joining Midway Through
 
 It is easy to join a tempo session midway through.
-Pull up a chair, get a pad of paper, write down at least one conversation topic you want to discuss, and add a card with your name on it to the deck (The time keeper should shuffle the deck before the next round starts if new cards have been added).
+Wait for the current round to finish and then just join in as normal.
 
-People are welcome to listen in if they are not in the deck, but they should not participate in the conversation.
+## Leaving Midway Through
+
+If someone has to pop out, put any cards with their name in them in the "later" pile as they come up. If someone leaves permanently, put any cards with their name on them in the "done" pile.
 
 ## Splitting the group
 
 The optimal size for a tempo session is probably about 5-8 people.
 Once you've hit ten or more people, it's time to split the group (feel free to experiment with this number).
 
-To do this, add the discard pile back into the deck, shuffle the deck, and deal out two new smaller decks of roughly equal size.
-Those are your two new groups. Find appropriate table space to separate, and resume as normal.
+To do this, put the later pile and the questions deck back together, sort the cards by name, and hand them out to their proposers.
+Decide how your group wants to divide up (I recommend at random) and then combine the relevant cards for the new groups together to form two new decks,
+one per group. Find appropriate table space to separate, and resume as normal.
 
 ## Ending the Session
 
-Unlike lean coffee, there is no predefined set of cards that people work through, so there is no well defined end to the session. Equally, because people can leave at any point, there's no real difficulty in it continuing indefinitely except that the time keeper and scribe will be exhausted.
+Unlike lean coffee, there is no predefined set of cards that people work through, so there is no well defined end to the session.
 As a result there is no real set ending rule, but the session can be ended after any round, and it's generally useful for scheduling purposes to set a rough end time up front.
-
-## Additional Things to try
-
-Here are some things that I have thought of but would like to experiment with in play testing before I incorporate them:
-
-* I did a [conversation cafe](http://www.liberatingstructures.com/17-conversation-cafe/) recently and thought it was an interesting format. The main thing that I think is worth borrowing from this is the use of a talking object - the use of a physical object that you have to be holding to speak. This worked really well, and one of the things I want to try in play testing is how to incorporate something like this into the system. I also want a better name than "talking object". I keep wanting to call it a conch, but don't feel like [the connotations of "eventually the social order will break down and we'll kill each other"](https://en.wikipedia.org/wiki/Lord_of_the_Flies) are great.
-* The system currently has no introductory step where people say who they are, and it also doesn't do a great job of dealing with people who want to participate but don't have a particular subject they want to talk about. I'm currently thinking about how to fix these simultaneously by e.g. giving people an introductory 30 seconds to talk when their name first comes up. I'm also thinking it might be nice to have people then have an opportunity to ask them questions. 
-
-## Possible Two Player Variants
-
-There are some two person variants you can do of this, either as a training exercise or as worthwhile things in their own right.
-I don't know how well these would work, but I think they'd be interesting to try.
-
-The simplest version is to just have a conversation where you each hold the other to the five second rule. This gets you used to the cadence of the conversation required (five seconds is not a lot of time!) and helps practice the interrupt protocol.
-You could also incorporate the voting aspect fairly easily, but simplify the step of what to talk about next by say doing a minute of silent writing, followed by a negotiation and unanimous agreement on what the next time boxed discussion is. Similarly, the decision to continue for another five minutes requires unanimity.
