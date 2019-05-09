@@ -73,7 +73,7 @@ Beginning the second round onwards a question is selected as follows:
 
 ## Joining Midway Through
 
-It is easy to join a tempo session midway through.
+It is easy to join a TickTalk session midway through.
 Wait for the current round to finish and then just join in as normal.
 
 ## Leaving Midway Through
@@ -82,7 +82,7 @@ If someone has to pop out, put any cards with their name in them in the "later" 
 
 ## Splitting the group
 
-The optimal size for a tempo session is probably about 5-8 people.
+The optimal size for a TickTalk session is probably about 5-8 people.
 Once you've hit ten or more people, it's time to split the group (feel free to experiment with this number).
 
 To do this, put the later pile and the questions deck back together, sort the cards by name, and hand them out to their proposers.
